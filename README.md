@@ -7,6 +7,8 @@ Given below are the features
 - Organize files by **last modified date**
 - Organize files by a **custom rule** (e.g., files starting with "report")
 
+
+Flow:
 1. Save the source code as file_organizer.py
 2. Run the script using python file_organizer.py
    this will open a small GUI window
