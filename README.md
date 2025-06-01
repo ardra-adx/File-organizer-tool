@@ -1,6 +1,20 @@
 # File-organizer-tool
 
+A simple "file Organizer" build using python and Tkinter. This tool helps you clean up and organize files in a folder based on file type, modified date, or custom rules -all with click of a button.
 
+Given below are the features
+- Organize files by **file type/extension** (e.g., `.jpg`, `.pdf`, etc.)
+- Organize files by **last modified date**
+- Organize files by a **custom rule** (e.g., files starting with "report")
+
+1. Save the source code as file_organizer.py
+2. Run the script using python file_organizer.py
+   this will open a small GUI window
+3. Click "Select Folder" to choose the folder you want to organize.
+4. Choose one of the 3 organizing methods:
+   - Organize by Type – moves files into folders based on their extension.
+   - Organize by Date – moves files into folders based on the last modified date.
+   - Organize by Custom Rule – moves files starting with report into a Reports folder and others into Others.
 
 
 
